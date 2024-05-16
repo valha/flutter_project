@@ -6,7 +6,8 @@ Esta posee un sistema de gestión de progreso basado en rutinas y entrenamientos
 
 Links
 ```
-Link Video Presentación: 
+Link Video Presentación: https://youtu.be/mmuCl9K6KAY
+Link Presentación: https://docs.google.com/presentation/d/1L1hHGzZGBrQyDbjZsfIZ33F7RsRr-ADokWe_ySOblTo/edit?usp=sharing
 ```
 
 ## Primera versión de 2Aim (v1):
