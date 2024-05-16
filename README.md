@@ -12,9 +12,13 @@ La primera versión posee funcionalidad relacionada sólo con el flujo de pantal
 **Pantallas**
 
 **- Splash Screen:** primera pantalla que ve el usuario, posee el logo temporal de la aplicación 2Aim y el eslogan.
+
 **- Login Screen:** segunda pantalla que ve el usuario, posee el sistema de autenticación de usuario, la opción de recuperar/resetear la contraseña y registrarse.
+
 **- Forgot Password Screen:** esta pantalla aparece cuando el usuario interacciona con "Forgot your password?" que es un botón de texto. Posee el sistema de recuperación/reset de contraseña.
+
 **- Pre Home Screen:** esta es la tercera pantalla dentro del flujo del usuario, en la cual este puede (y debe) agregar al menos un juego de interés (puede ser hayado mediante el buscador en la parte superior). Luego de agregar un juego, puede seleccionarlo y presionar el botón "G O !" para ir a la pantalla de preferencias (Preferences Screen).
+
 **- Preferences Screen:** esta es la cuarta pantalla en el flujo del usuario, (actualmente) posee un cuadro de texto detallando la informaciónm y funcionalidad que debería tener. Puede ser saltada por el usuario en el caso de que este prefiera rellenarlas en otra ocasión.
 - Home Screen: esta pantalla es la quinta pantalla y la pantalla principal, donde el usuario puede acceder a las diferentes funcionalidades que poseee la aplicación 2Aim.
 
