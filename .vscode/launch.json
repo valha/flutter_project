@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter (Pixel 8 API 32 - DM)",
+            "program": "lib/main.dart",
+            "deviceId": "emulator-5554",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
